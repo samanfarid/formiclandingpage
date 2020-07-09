@@ -1,6 +1,6 @@
 ## FORMIC TECHNOLOGIES
 
 ```
-Something Special.
+Something Special. 
 Coming Soon.
 ```
